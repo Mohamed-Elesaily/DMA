@@ -9,8 +9,8 @@ DMA is simply implementation for 8237A using verilog and flutter desktop for lin
 
 # Team members
 * Mohamed Elesaily
-* Mahmoud Benyamin
 * Mohamed Hamada
+* Mahmoud Benyamin
 * Mohamed Obada
 * Hady Ashraf
 
