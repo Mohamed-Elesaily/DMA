@@ -15,4 +15,4 @@ DMA is simply implementation for 8237A using verilog and flutter desktop for lin
 * Hady Ashraf
 
 ## issue
-Hardware isn't completed. it implement only one instruction at one time. 
+Hardware isn't completed. it implements only one instruction at one time. 
